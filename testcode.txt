@@ -1,10 +1,10 @@
-input 
+sample input 
 enter min number
 25
 enter max number
 100
 
-output
+sample output
 
 29
 31
